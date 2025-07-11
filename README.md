@@ -124,8 +124,8 @@ Edit `src/questions.js` to add new questions with the following structure:
 ## 👨‍💻 Author
 
 **Yaswanth Thottempudi**
-- GitHub: [@your-github-username](https://github.com/YASWANTHthottempudi)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/)
+- GitHub: [Yaswanth Thottempudi](https://github.com/YASWANTHthottempudi)
+- LinkedIn: [Yaswanth Thottempudi](https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/)
 
 
 
