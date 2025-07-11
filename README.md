@@ -17,7 +17,7 @@ A modern, interactive React quiz application with enhanced features, beautiful a
 - **Smart timer system** with countdown animations
 - **Instant feedback** with explanations for each answer
 
-### 🎨 Modern UI/UX
+### 🎨 Modern UI/UX 
 - **Glass morphism design** with backdrop blur effects
 - **Animated transitions** and hover effects
 - **Responsive design** that works on all devices
