@@ -121,20 +121,10 @@ Edit `src/questions.js` to add new questions with the following structure:
 - **Accessibility**: WCAG compliant design patterns
 
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-
-
 ## 👨‍💻 Author
 
 **Yaswanth Thottempudi**
-- GitHub: [@your-github-username](https://github.com/your-github-username)
+- GitHub: [@your-github-username](https://github.com/YASWANTHthottempudi)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/)
 
 
