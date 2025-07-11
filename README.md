@@ -174,7 +174,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Yaswanth Thottempudi**
 - GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/)
 
 ## 🙏 Acknowledgments
 
