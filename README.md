@@ -34,35 +34,6 @@ A modern, interactive React quiz application with enhanced features, beautiful a
 - **Detailed question-by-question breakdown**
 - **Print and share functionality**
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn package manager
-
-### Installation
-
-1. Clone the repository:
-\`\`\`bash
-git clone <your-repository-url>
-cd Section12
-\`\`\`
-
-2. Install dependencies:
-\`\`\`bash
-npm install
-# or
-yarn install
-\`\`\`
-
-3. Start the development server:
-\`\`\`bash
-npm run dev
-# or
-yarn dev
-\`\`\`
-
-4. Open your browser and visit `http://localhost:5173`
 
 ## 🛠️ Built With
 
@@ -149,14 +120,6 @@ Edit `src/questions.js` to add new questions with the following structure:
 - **Minimal Bundle**: Optimized build with Vite
 - **Accessibility**: WCAG compliant design patterns
 
-## 📈 Future Enhancements
-
-- [ ] Question categories and filtering
-- [ ] User accounts and progress saving
-- [ ] Multiplayer quiz functionality
-- [ ] Question difficulty adaptation based on performance
-- [ ] Audio feedback and sound effects
-- [ ] Multiple choice question types
 
 ## 🤝 Contributing
 
@@ -166,9 +129,7 @@ Edit `src/questions.js` to add new questions with the following structure:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
@@ -176,11 +137,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - GitHub: [@your-github-username](https://github.com/your-github-username)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/)
 
-## 🙏 Acknowledgments
 
-- React team for the amazing framework
-- Design inspiration from modern quiz platforms
-- Community feedback and suggestions
 
 ---
 
