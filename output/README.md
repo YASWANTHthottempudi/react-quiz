@@ -1,11 +1,10 @@
 # React Quiz Application 🎯
 
+🌟 **[🚀 LIVE DEMO - Try the Interactive Quiz!](https://yaswanththottempudi.github.io/react-quiz/)**
+
 A modern, interactive React quiz application with enhanced features, beautiful animations, and comprehensive learning tools.
 
-## 🌟 **Live Demo**
-🔗 **[Try the Quiz Now!](https://yaswanththottempudi.github.io/react-quiz/)** 
-
-*Click the link above to experience the interactive React Quiz with all its enhanced features!*
+*Click the live demo link above to experience the interactive quiz with all its enhanced features in real-time!*
 
 ---
 
